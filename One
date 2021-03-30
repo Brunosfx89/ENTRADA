@@ -1,9 +1,9 @@
 <channels>
 <channel>
 <name>[COLOR orangered][B]●[/B][/COLOR][COLOR white][B] FILMES [/B][/COLOR]</name>
-<thumbnail>https://blog.clarocombomais.com.br/app/uploads/2019/10/size_960_16_9_canais-net3-1200x675.jpg</thumbnail>
+<thumbnail>https://cdn.statically.io/img/www.targethd.net/wp-content/uploads/2020/03/plataformas-de-streaming-vod.jpg?quality=60&f=auto</thumbnail>
 <externallink>https://raw.githubusercontent.com/Brunosfx89/CANAIS/main/F-diretos</externallink>
-<fanart>https://www.nxtv.com.br/wp/wp-content/uploads/2020/08/Matriz_Vertical3-scaled.jpg</fanart>
+<fanart>https://i2.wp.com/geekiegames.geekie.com.br/blog/wp-content/uploads/2018/07/gosto-filmes-profissao-1.png?fit=1097%2C630&</fanart>
 <info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
 [COLOR orange][B]Clik e verá os melhores conteúdos atualizados semanalmente...[/B][/COLOR]</info>
 </channel>
@@ -56,6 +56,19 @@
 <thumbnail>https://img-21.ccm2.net/FUMfhGFCga2P6UrS4kk0nKjAUEU=/3cb5fc294b5b49eca99196b65cc558db/ccm-faq/1775309.jpg</thumbnail>
 <externallink>https://abre.ai/cojp</externallink>
 <fanart>https://preview.redd.it/0h2ztfaufhk41.jpg?auto=webp&s=d1acbf20e33b0b80d71fdcd4553c4814c41ddd97</fanart>
+<info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
+[COLOR orange][B]Clik e verá os melhores conteúdos atualizados semanalmente...[/B][/COLOR]</info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR cyan][B]●[/B][/COLOR][COLOR white][B] DESENHOS ANTIGOS [/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/originals/62/9f/da/629fdaeac37d1676d10ee0abdd3ffbff.jpg</thumbnail>
+<externallink>https://abre.ai/cojp</externallink>
+<fanart>https://referencianerd.com/wp-content/uploads/2019/10/capa-desenhos.jpg</fanart>
 <info>[COLOR lightgreen]--------------[/COLOR][COLOR yellow] by [/COLOR][COLOR blue] MARIOKART[/COLOR][COLOR lightgreen]--------------[/COLOR]
 [COLOR orange][B]Clik e verá os melhores conteúdos atualizados semanalmente...[/B][/COLOR]</info>
 </channel>
